@@ -1,0 +1,53 @@
+{
+  "language": {
+    "english": { "title": "English*" },
+    "polish": { "title": "Polish*" },
+    "russian": { "title": "Russian*" }
+  },
+  "screen": {
+    "home": { "title": "Home", "label": "Home*" }
+  },
+  "text": {
+    "selectALanguage": { "title": "Select a language*" },
+    "changeLaterInSettings": {
+      "title": "You can always change this later in the settings."
+    },
+    "welcome": { "title": "Welcome!*" },
+    "storiesSongsAdventuresAwait": {
+      "title": "Stories songs and adventures await!"
+    },
+    "doYouHaveLovabies": { "title": "Do you have a Lovabies toy?*" },
+    "storiesThatHugBack": { "title": "Stories that hug\nback!*" },
+    "everyStorySongNowInFriend": {
+      "title": "Every story & song, now in a \nhuggable, screen-free friend"
+    },
+    "appOnly": { "title": "App \nonly*" },
+    "appPlush": { "title": "App + \nPlush*" },
+    "listenOnPhone": { "title": "Listen on phone*" },
+    "basicStoriesRhymes": { "title": "Basic stories & rhymes*" },
+    "hugListenAnywhere": { "title": "Hug & listen anywhere*" },
+    "offlinePlayback": { "title": "Offline playback*" },
+    "physicalButtons": { "title": "Physical buttons*" },
+    "accessToFullLibrary": { "title": "Access to full library*" },
+    "recordYourOwnVoice": { "title": "Record your own voice*" },
+    "sleepTimer": { "title": "Sleep timer*" },
+    "contentUpdates": { "title": "Content updates*" },
+    "selectYourLovabies": { "title": "Select your lovabies*" },
+    "pickPlushYouWant": {
+      "title": "Pick the plush you want to get for \nyour loved one"
+    },
+    "parentalLock": { "title": "Parental Lock*" },
+    "solveTheEquation": {
+      "title": "Solve the following equation to \ncontinue"
+    },
+    "typeHere": { "title": "Type Here*" }
+  },
+  "button": {
+    "confirm": { "title": "Confirm*" },
+    "yesIHaveToy": { "title": "Yes, I have my toy!*" },
+    "noIDontHaveOne": { "title": "No, I dont have one yet!*" },
+    "bringBuddyHome": { "title": "Bring a buddy home!*" },
+    "maybeLaterKeepExploring": { "title": "Maybe later - keep exploring*" },
+    "next": { "title": "Next*" }
+  }
+}
